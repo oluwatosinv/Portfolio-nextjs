@@ -23,6 +23,13 @@ const Projects = () => {
                     body='Designed and built a high performance website to check the weather for any city in the world. You would love it!!!'
                 />
                 <Project
+                    link='https://farmproduceng.netlify.app/'
+                    src='https://res.cloudinary.com/tosin/image/upload/v1632261002/screencapture-farmproduceng-netlify-app-2021-09-21-22_42_13_bebh2t.png'
+                    title='Flyo Document'
+                    subTitle='Frontend / HTML / CSS'
+                    body='Designed and built a high performance website for Farm produce ng'
+                />
+                <Project
                     link='https://flyodocument.netlify.app/'
                     src='https://res.cloudinary.com/tosin/image/upload/v1629489735/HNG/screencapture-flyodocument-netlify-app-2021-08-17-21_02_29.png'
                     title='Flyo Document'
